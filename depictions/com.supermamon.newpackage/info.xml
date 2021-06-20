@@ -1,5 +1,5 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com.laxus.iosgodsiapcracker_1.0-2+debug_iphoneos-arm</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
+		<description>Iap Cracker.</description>
 		<description>It has more description lines.</description>
 		<description><![CDATA[
 		You can also have<br/> 

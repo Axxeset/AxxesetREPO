@@ -4,13 +4,13 @@
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>This is a iap cracker. Firmware should be greater than 11.0</shortDescription>
 	<descriptionlist>
 		<description>Iap Cracker.</description>
 		<description>It has more description lines.</description>
